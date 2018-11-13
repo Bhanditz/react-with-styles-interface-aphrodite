@@ -55,7 +55,7 @@
     "in-publish": "^2.0.0",
     "mocha": "^5.2.0",
     "prop-types": "^15.6.2",
-    "react": "^16.4.1",
+    "react": "^16.6.3",
     "react-dom": "^16.4.1",
     "rimraf": "^2.6.2",
     "safe-publish-latest": "^1.1.1",
